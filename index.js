@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ZEN.GG","ZEN ON TOP"];
+const statusMessages = ["UNKNOWN #1","UNKNOWN: https://discord.gg/xVa7tUY7bV "];
 
 
 let currentIndex = 0;
